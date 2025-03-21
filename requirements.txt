@@ -1,0 +1,15 @@
+uvicorn
+python-telegram-bot
+requests
+fastapi
+regex
+logging
+langchain
+langchain-google-genai
+python-dotenv
+spacy
+pronouncing
+pydantic
+collections
+typing	
+	
